@@ -1,0 +1,20 @@
+C:\Users\LALA\source\repos\25_Kalkulator\25_Kalkulator\bin\Debug\25_Kalkulator.exe.config
+C:\Users\LALA\source\repos\25_Kalkulator\25_Kalkulator\bin\Debug\25_Kalkulator.exe
+C:\Users\LALA\source\repos\25_Kalkulator\25_Kalkulator\bin\Debug\25_Kalkulator.pdb
+C:\Users\LALA\source\repos\25_Kalkulator\25_Kalkulator\obj\Debug\25_Kalkulator.csprojAssemblyReference.cache
+C:\Users\LALA\source\repos\25_Kalkulator\25_Kalkulator\obj\Debug\_25_Kalkulator.Form1.resources
+C:\Users\LALA\source\repos\25_Kalkulator\25_Kalkulator\obj\Debug\_25_Kalkulator.Properties.Resources.resources
+C:\Users\LALA\source\repos\25_Kalkulator\25_Kalkulator\obj\Debug\25_Kalkulator.csproj.GenerateResource.cache
+C:\Users\LALA\source\repos\25_Kalkulator\25_Kalkulator\obj\Debug\25_Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\LALA\source\repos\25_Kalkulator\25_Kalkulator\obj\Debug\25_Kalkulator.exe
+C:\Users\LALA\source\repos\25_Kalkulator\25_Kalkulator\obj\Debug\25_Kalkulator.pdb
+G:\FILE DIKA\coding\C#\25_Kalkulator\25_Kalkulator\bin\Debug\25_Kalkulator.exe.config
+G:\FILE DIKA\coding\C#\25_Kalkulator\25_Kalkulator\bin\Debug\25_Kalkulator.exe
+G:\FILE DIKA\coding\C#\25_Kalkulator\25_Kalkulator\bin\Debug\25_Kalkulator.pdb
+G:\FILE DIKA\coding\C#\25_Kalkulator\25_Kalkulator\obj\Debug\25_Kalkulator.csprojAssemblyReference.cache
+G:\FILE DIKA\coding\C#\25_Kalkulator\25_Kalkulator\obj\Debug\_25_Kalkulator.Kalkulator.resources
+G:\FILE DIKA\coding\C#\25_Kalkulator\25_Kalkulator\obj\Debug\_25_Kalkulator.Properties.Resources.resources
+G:\FILE DIKA\coding\C#\25_Kalkulator\25_Kalkulator\obj\Debug\25_Kalkulator.csproj.GenerateResource.cache
+G:\FILE DIKA\coding\C#\25_Kalkulator\25_Kalkulator\obj\Debug\25_Kalkulator.csproj.CoreCompileInputs.cache
+G:\FILE DIKA\coding\C#\25_Kalkulator\25_Kalkulator\obj\Debug\25_Kalkulator.exe
+G:\FILE DIKA\coding\C#\25_Kalkulator\25_Kalkulator\obj\Debug\25_Kalkulator.pdb
